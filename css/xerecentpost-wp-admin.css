@@ -1,0 +1,6 @@
+.small-input {
+	width: 30%;
+}
+
+.xe-cat-list { background-color: #FAFAFA; height: 22x; overflow: auto; padding: 5px; border-top: 1px solid #F5F5F5; border-bottom: 1px solid #F5F5F5;}
+.xe-cat-list p:first-child { margin-top: 0px;}
